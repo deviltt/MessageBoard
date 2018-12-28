@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="messageBoard:war exploded">
+    <output-path>D:/apache-tomcat-9.0.14/webapps</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="messageBoard/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="messageBoard" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
